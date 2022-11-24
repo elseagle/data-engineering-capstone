@@ -80,4 +80,4 @@ If the data for this pipeline goes up by 100%, the approach for this project wil
 * Google sheet will not be able to take 100million rows, so an alternative like s3 or cloudstorage will do for data input.
 
 
-NB: Because the size of this file is large, the lead_data.json and lead_export.csv have been moved to a [google drive]("https://drive.google.com/drive/folders/1d36hJWSRgJLlPiLjFqyywexBjsksKKeB?usp=share_link")
+NB: Because the size of this file is large, the lead_data.json and lead_export.csv have been moved to a [google drive](https://drive.google.com/drive/folders/1d36hJWSRgJLlPiLjFqyywexBjsksKKeB?usp=share_link)

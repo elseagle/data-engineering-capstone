@@ -55,7 +55,7 @@ Since this data does not contain a unique identifier, like a primary key, we hol
 | ----- | ------ | ------------ | --------
 | company | string | the company name | Smith PLC |
 | first_name | string | lead's first name | John
-| last_name | string | ead's last name | Blardo
+| last_name | string | lead's last name | Blardo
 | title | string | lead's position in current company | CTO
 | operator_timestamp | timestamp | time human operator dumped the data on the sheet | 2022-11-15 00:00:00
 
